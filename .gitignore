@@ -4,3 +4,4 @@ data
 commands.sh
 models
 metrics.csv
+check_model.py
